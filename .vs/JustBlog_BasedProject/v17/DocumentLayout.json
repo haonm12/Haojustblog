@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\justblogcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\justblogcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\posttagmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\posttagmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\justbloginitializer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\justbloginitializer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\migrations\\justblogcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\migrations\\justblogcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\irepositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\irepositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\irepositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\irepositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95625843-94D4-44BC-BC15-7AD1FA550B28}|BasedProject.UnitTest\\BasedProject.UnitTest.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95625843-94D4-44BC-BC15-7AD1FA550B28}|BasedProject.UnitTest\\BasedProject.UnitTest.csproj|solutionrelative:basedproject.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\basedprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\basedprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\infrastructure\\baserepositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\infrastructure\\baserepositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.dataaccess\\irepositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9250496-B9E7-4A9B-AB82-762E157B6830}|BasedProject.DataAccess\\BasedProject.DataAccess.csproj|solutionrelative:basedproject.dataaccess\\irepositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.models\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CBD43-13F5-47E1-89F2-69E56CFA6113}|BasedProject.Models\\BasedProject.Models.csproj|solutionrelative:basedproject.models\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|c:\\users\\admin\\source\\repos\\base-project-asp-net-mvc\\basedproject.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA5B31-7D7B-42BC-91C8-3FF48420E68F}|BasedProject.WebMVC\\BasedProject.WebMVC.csproj|solutionrelative:basedproject.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "BasedProject.WebMVC\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:16:17.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Comment.cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:27:57.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Category.cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\Category.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:49:27.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "BasedProject.WebMVC\\Controllers\\HomeController.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:22:03.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:36:54.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "BasedProject.WebMVC\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T07:53:07.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BasedProject.WebMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:17:37.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BasedProject.WebMVC\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:49:41.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JustBlogContextcs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\JustBlogContextcs.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\JustBlogContextcs.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\JustBlogContextcs.cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\JustBlogContextcs.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvzEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:38:38.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BasedProject.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:18:58.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Program.cs",
+              "RelativeToolTip": "BasedProject.WebMVC\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:07:30.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tags.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Tags.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\Tags.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Tags.cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\Tags.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:30:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JustBlogContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Migrations\\JustBlogContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Migrations\\JustBlogContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Migrations\\JustBlogContextModelSnapshot.cs",
+              "RelativeToolTip": "BasedProject.Models\\Migrations\\JustBlogContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:59:31.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostTagMap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\PostTagMap.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\PostTagMap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\PostTagMap.cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\PostTagMap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:35:28.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\Post.cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:06:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JustBlogInitializer .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\JustBlogInitializer .cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\Models\\JustBlogInitializer .cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\Models\\JustBlogInitializer .cs",
+              "RelativeToolTip": "BasedProject.Models\\Models\\JustBlogInitializer .cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:14:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\IRepositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\IPostRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\IRepositories\\IPostRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:31:08.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:42:43.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\IRepositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\ICommentRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\IRepositories\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:40:22.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:04:14.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\IRepositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\IRepositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:48:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BasedProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\BasedProjectDbContext.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\BasedProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\BasedProjectDbContext.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\BasedProjectDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:04:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\appsettings.json",
+              "RelativeToolTip": "BasedProject.WebMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T03:03:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BasedProject.UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "BasedProject.UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:26:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Infrastructure\\BaseRepositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\Infrastructure\\BaseRepositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Infrastructure\\BaseRepositories\\GenericRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\Infrastructure\\BaseRepositories\\GenericRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:43:34.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\Repositories\\TagRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:37:37.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "BasedProject.DataAccess\\IRepositories\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.DataAccess\\IRepositories\\ITagRepository.cs",
+              "RelativeToolTip": "BasedProject.DataAccess\\IRepositories\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:29:59.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\BaseEntities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BasedProject.Models\\BaseEntities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.Models\\BaseEntities\\BaseEntity.cs",
+              "RelativeToolTip": "BasedProject.Models\\BaseEntities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:49:01.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BasedProject.WebMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\base-project-asp-net-mvc\\BasedProject.WebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BasedProject.WebMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:32:37.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
